@@ -47,14 +47,14 @@ private:
 
 };
 
-// Inheritance
+// // Inheritance
 
-class Programmer : public Employee
-{
-public:
-    int errors;
+// class Programmer : public Employee
+// {
+// public:
+//     int errors;
 
-};
+// };
 
 
 
